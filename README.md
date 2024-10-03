@@ -5,6 +5,7 @@
 - 📫 How to reach me - instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like soccer
+- Author: Kieran Sainsbury
  
 <!---
 kieransainsbury/kieransainsbury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
