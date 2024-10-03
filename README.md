@@ -5,6 +5,7 @@
 - 📫 How to reach me - instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like soccer
+- Project Creation Date: October 1st
 - Author: Kieran Sainsbury
  
 <!---
